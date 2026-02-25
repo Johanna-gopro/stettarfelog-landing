@@ -1,6 +1,5 @@
 // app/page.tsx
-import React from "react";
-
+"use client";
 const BRAND = {
   // Þú getur bara breytt þessum
   primary: "#3FA1A2", // Hugvit teal
